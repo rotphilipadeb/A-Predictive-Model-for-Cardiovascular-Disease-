@@ -1,6 +1,8 @@
 # A-Predictive-Model-for-Cardiovascular-Disease-
 My project aims to predict heart disease using machine learning, leveraging patient data to identify risk factors and improve early diagnosis and intervention for better health outcomes.
-<img src="heart-disease.jpg" alt="Heart Disease Prediction" style="width:500px;height:600px;">
+<p></p>
+<img src="heart-disease.jpg" alt="Heart Disease Prediction" style="width:800px;height:500px;">
+<p></p>
 <h2>Loading the Heart Disease Data</h2>
 <p>In this project, we begin by loading a comprehensive dataset containing various patient information pertinent to heart disease prediction. The dataset typically includes variables such as age, sex, chest pain type, resting blood pressure, cholesterol levels, fasting blood sugar, rest ECG results, maximum heart rate achieved, exercise-induced angina, old peak (ST depression induced by exercise), the slope of the peak exercise ST segment, number of major vessels colored by fluoroscopy, and thalassemia status. This data is crucial for training our machine learning model to accurately predict heart disease.</p>
 
